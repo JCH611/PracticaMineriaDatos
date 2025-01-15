@@ -6,3 +6,4 @@ matplotlib
 kagglehub
 seaborn
 nbformat
+pyod
